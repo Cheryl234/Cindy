@@ -1,9 +1,9 @@
-#introduction of pip
+#Introduction of pip
 
   pip -V #the version of pip
-  pip install requests #Install the package 'requests' into python
-  pip uninstall requests # Uninstall the package
-  pip list #list	List installed packages
+  pip install requests #install the package 'requests' into python
+  pip uninstall requests #uninstall the package
+  pip list #list installed packages
   pip freeze #the packages installed by pip
   pip install --upgrate pip #update pip or anyother packages.
 
@@ -14,7 +14,7 @@
   pip install package_name -i website #website is the mirror website and you can download faster
   
   #Install multiple packages using a requirements file
-  pip install r- requirements.txt # It contains the package names and versions, eg.requests ==  2.32.3
+  pip install r- requirements.txt #it contains the package names and versions, eg.requests ==  2.32.3
 
 
   
