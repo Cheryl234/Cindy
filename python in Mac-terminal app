@@ -1,0 +1,11 @@
+
+#open terminal app in MAC
+
+python3 #show the basic information of python, like version and could get more informtion if you enter the words listed in the response
+which python3 #show the path of python
+clear #clear the window, in fact, it's a new page and you will see the previous when you scroll the window 
+clear # you can also use control+L
+exit # end of the code
+
+
+
