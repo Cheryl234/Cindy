@@ -9,11 +9,12 @@
 
 #Two common ways for installing packages by pip
 
-  #Install a package
+  ##Install a package
+
   pip install package_name 
   pip install package_name -i website #website is the mirror website and you can download faster
   
-  #Install multiple packages using a requirements file
+  ##Install multiple packages using a requirements file
   pip install r- requirements.txt #it contains the package names and versions, eg.requests ==  2.32.3
 
 
